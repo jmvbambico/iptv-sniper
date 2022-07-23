@@ -167,6 +167,7 @@
             "HBOFamilyEast.us",
             "HLN.us",
             "KSAZDT1.us",
+            "KTLA.us",
             "MSNBC.us",
             "MTVLive.uk",
             "NewsmaxTV.us",
@@ -175,7 +176,8 @@
             "SyfyEast.us",
             "TNTEast.us",
             "USANetworkEast.us",
-            "ViceTV.us",
+            "ViceTV.us"
+            "WPIXDT1.us",
             "WTXFDT1.us"
         ]
     },
