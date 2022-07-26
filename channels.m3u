@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-sniper.herokuapp.com/epg/adoboTV.php,https://iptv-sniper.herokuapp.com/epg/skycable.php"
 
-#EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-name="Jeppney TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg" group-title="Local TV",Jeepney TV
+#EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-name="Jeppney TV" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/24/Jeepney_TV_Logo_2015.png" group-title="Local TV",Jeepney TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=76
 
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-name="Kapamilya Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/512px-Kapamilya_Channel.png" group-title="Local TV",Kapamilya Channel
@@ -21,13 +21,13 @@ http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=41228&extension
 #EXTINF:-1 tvg-id="GMAPinoyTV.ph" tvg-name="GMA Pinoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="Local TV",GMA Pinoy TV
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=33269&extension=ts&play_token=o99Hf0NZEo
 
-#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="Local TV",GMA TV
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="Local TV",GMA TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=5
 
 #EXTINF:-1 tvg-id="GTV.ph" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/512px-GTV_Philippines_Logo_Vector.svg.png" group-title="Local TV",GTV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=7
 
-#EXTINF:-1 tvg-id="IBC13.ph" tvg-name="IBC 13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg" group-title="Local TV",IBC 13
+#EXTINF:-1 tvg-id="IBC13.ph" tvg-name="IBC 13" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b6/IBC_13_Logo_2021.png" group-title="Local TV",IBC 13
 http://user.scalecdn.co:8080/live/Alicia/Alicia/567720.m3u8
 
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-name="INC TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/INCTV-Logo-2012.png" group-title="Local TV",INC TV
@@ -71,7 +71,7 @@ https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
 #EXTINF:-1 tvg-id="CineMo.ph" tvg-name="Cine Mo!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/512px-Cinemo_logo_vectorized.svg.png" group-title="Movies & Series",Cine Mo!
 https://tiny.one/cinemocdn1
 
-#EXTINF:-1 tvg-id="CineLife.us" tvg-name="CineLife" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="Movies & Series",CineLife
+#EXTINF:-1 tvg-id="CineLife.us" tvg-name="CineLife" tvg-logo="https://images.squarespace-cdn.com/content/v1/6116dd95ac570853a3a7eb02/1629235069546-WGIX0E1UKHM93G1AWXOC/cinelife.png" group-title="Movies & Series",CineLife
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="CinemaxSingapore.sg" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies & Series",Cinemax
@@ -117,7 +117,7 @@ https://live-lunaott.akamaized.net/screamflix_ottera/playlist.m3u8
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860283&extension=ts&play_token=3bJyPI6B9a
 
 #EXTINF:-1 tvg-id="SOLARFLIX" tvg-name="SolarFlix" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/05/Solar_Flix_Logo_2022.png" group-title="Movies & Series",SolarFlix
-http://user.scalecdn.co:8080/live/Alicia/Alicia/567710.m3u8
+http://user.scalecdn.co:8080/live/movie/movie/567710.m3u8
 
 #EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-name="Star Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies & Series",Star Movies
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:ab:98:86&stream=136629&extension=ts&play_token=I0DMNLsHGF
@@ -130,6 +130,12 @@ https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-name="Syfy" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies & Series",Syfy
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860317&extension=ts&play_token=qUFDgWsenK
+
+#EXTINF:-1 tvg-id="TCMTurnerClassicMoviesEast.us" tvg-name="TCM East" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies & Series",TCM East [Geo-USA]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="TCMTurnerClassicMoviesWest.us" tvg-name="TCM West" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies & Series",TCM West [Geo-USA]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Movies & Series",USA Network
 http://skylogic.site:8080/ce1eb8b3/fd28c06f6f/3390
@@ -155,6 +161,9 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=62
 #EXTINF:-1 tvg-id="C31Melbourne.au" tvg-name="C31 Melbourne" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="Lifestyle & Entertainment",C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 
+#EXTINF:-1 tvg-id="CBSEast.us" tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png" group-title="Lifestyle & Entertainment",CBS
+https://v-pi.theus6tv.tk/hls/3.1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.us" tvg-name="Crime + Investigation" tvg-logo="https://i.imgur.com/KeM5KlR.png" group-title="Lifestyle & Entertainment",Crime + Investigation
 https://iptv-sniper.herokuapp.com/localtv.php?channel=35
 
@@ -176,6 +185,9 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=55
 #EXTINF:-1 tvg-id="METROCHANNELSD" tvg-name="Metro Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Metro_Channel_logo.png" group-title="Lifestyle & Entertainment",Metro Channel
 https://iptv-sniper.herokuapp.com/localtv.php?channel=58
 
+#EXTINF:-1 tvg-id="NBCEast.us" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/NBC_2013_fixed_logo.png" group-title="Lifestyle & Entertainment",NBC
+https://v-pi.theus6tv.tk/hls/10.1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-name="Rock Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest/scale-to-width-down/1000?cb=20210911032942" group-title="Lifestyle & Entertainment",Rock Entertainment
 https://iptv-sniper.herokuapp.com/localtv.php?channel=56
 
@@ -187,6 +199,12 @@ https://v-ny.theus6tv.tk/hls/11.1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KTLADT1.us" tvg-name="The CW West" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="Lifestyle & Entertainment",The CW West
 https://v-la.mybtv.net/live/164.m3u8
+
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-name="TBS East" tvg-logo="https://i.imgur.com/e3ik7KK.png" group-title="Lifestyle & Entertainment",TBS East [Geo-USA]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TBSWest.us" tvg-name="TBS East" tvg-logo="https://i.imgur.com/e3ik7KK.png" group-title="Lifestyle & Entertainment",TBS West [Geo-USA]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/512px-TLC-Logo_2016.svg.png" group-title="Lifestyle & Entertainment",TLC
 https://iptv-sniper.herokuapp.com/localtv.php?channel=47
@@ -206,6 +224,9 @@ https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="ABCAustraliaAsia.au" tvg-name="ABC TV" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="News & Culture",ABC TV
 https://c.mjh.nz/101002510251/
 
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://image.roku.com/developer_channels/prod/13f5273bb1c445828b50dd4239d525c104f0d120acdc0494af3b1f5edef94a4a.png" group-title="News & Culture",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News & Culture",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
@@ -220,6 +241,9 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=40
 
 #EXTINF:-1 tvg-id="BloombergTVAsiaPacific.hk" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/2r7utRt.png" group-title="News & Culture",Bloomberg TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=44
+
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1200px-CBS_News.svg.png" group-title="News & Culture",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-name="Cheddar" tvg-logo="https://i.imgur.com/YN7O7aI.png" group-title="News & Culture",Cheddar
 https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8
@@ -266,11 +290,23 @@ http://sverigeplay.tv/play/live.php?mac=00:1A:79:ab:98:86&stream=33270&extension
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="News & Culture",HLN
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-id="LiveNOWfromFox.us" tvg-name="LiveNOW from Fox" tvg-logo="https://www.livenowfox.com/img/LiveNOW_LOGO_HORIZONTAL_2_COLOR_RGB_002.png" group-title="News & Culture",LiveNOW from Fox
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MSNBC_2021.svg/512px-MSNBC_2021.svg.png" group-title="News & Culture",MSNBC
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860150&extension=ts&play_token=sCDJ0MU30D
 
+#EXTINF:-1 tvg-id="NBCLX.us" tvg-name="NBCLX" tvg-logo="https://ots.nbcwpshield.com/wp-content/uploads/2022/06/LXNews-logo-1260x630-1.png" group-title="News & Culture",NBCLX
+https://d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-main-hlsv3/master.m3u8?ads.channelId=9999651
+
+#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-name="NBC News Now" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/NBCNewsNOW-Logo-White-241x300.png" group-title="News & Culture",NBC News Now
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Newsmax2021.svg/512px-Newsmax2021.svg.png" group-title="News & Culture",Newsmax TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-newsmax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Newsy.us" tvg-name="Newsy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/1200px-Newsy_2021.svg.png" group-title="News & Culture",Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="News & Culture",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
@@ -374,6 +410,9 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=141598&exten
 #EXTINF:-1 tvg-id="FightSports" tvf-name="Fight Sports" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports",Fight Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=18
 
+#EXTINF:-1 tvg-id="Fite.us" tvf-name="Fite" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/2560px-FITE_TV.svg.png" group-title="Sports",Fite
+https://rpn1.bozztv.com/36bay2/gusa-fite/index.m3u8
+
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",Fox Sports 1
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860061&extension=ts&play_token=329zFNX3So
 
@@ -463,7 +502,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=30
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Cartoon_Network.svg/512px-Cartoon_Network.svg.png" group-title="Kids",Cartoon Network
 https://iptv-sniper.herokuapp.com/localtv.php?channel=29
 
-#EXTINF:-1 tvg-id="CartoonitoUK.uk" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/waE1BeJ.png" group-title="Kids",Cartoonito
+#EXTINF:-1 tvg-id="CartoonitoUK.uk" tvg-name="Cartoonito" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/6/66/Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=1000&extension=ts&play_token=m1nLMNgNjP
 
 #EXTINF:-1 tvg-id="CONtvAnime.us" tvg-name="CONtv Anime" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Kids",CONtv Anime
@@ -502,7 +541,7 @@ https://s3.radio.co/sd43d6cc6d/listen
 #EXTINF:-1 tvg-id="915WinRadio.ph" tvg-name="91.5 Win Radio" tvg-logo="https://winradioph.net/wp-content/uploads/Manila.jpg" group-title="Local Radio",91.5 Win Radio
 https://node-22.zeno.fm/7r5de9h96nhvv?zs=yL_62hnuRJSvNTB12NHgnw&zs=iZR7wIbCTYOp1uDqRGfyGA&rj-ttl=5&rj-tok=AAABgfs21scAvxjFA2IsU9lIYA
 
-#EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-name="DZRH News TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/DZRH_New_Logo_%282021%29.svg" group-title="Local Radio",DZRH News TV
+#EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-name="DZRH News TV" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/62/DZRH_TV_Logo_November_2021.png" group-title="Local Radio",DZRH News TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision
 
 #EXTINF:-1 tvg-id="SuperRadyoDZBB.ph" tvg-name="Super Radyo DZBB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/512px-DZBB594.svg.png" group-title="Local Radio",Super Radyo DZBB
