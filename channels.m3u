@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-sniper.herokuapp.com/epg/adoboTV.php,https://iptv-sniper.herokuapp.com/epg/skycable.php"
 
-#EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-name="Jeppney TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg" group-title="Local TV",Jeepney TV
+#EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-name="Jeppney TV" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/24/Jeepney_TV_Logo_2015.png" group-title="Local TV",Jeepney TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=76
 
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-name="Kapamilya Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/512px-Kapamilya_Channel.png" group-title="Local TV",Kapamilya Channel
@@ -21,13 +21,13 @@ http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=41228&extension
 #EXTINF:-1 tvg-id="GMAPinoyTV.ph" tvg-name="GMA Pinoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="Local TV",GMA Pinoy TV
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=33269&extension=ts&play_token=o99Hf0NZEo
 
-#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="Local TV",GMA TV
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="Local TV",GMA TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=5
 
 #EXTINF:-1 tvg-id="GTV.ph" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/512px-GTV_Philippines_Logo_Vector.svg.png" group-title="Local TV",GTV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=7
 
-#EXTINF:-1 tvg-id="IBC13.ph" tvg-name="IBC 13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg" group-title="Local TV",IBC 13
+#EXTINF:-1 tvg-id="IBC13.ph" tvg-name="IBC 13" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b6/IBC_13_Logo_2021.png" group-title="Local TV",IBC 13
 http://user.scalecdn.co:8080/live/Alicia/Alicia/567720.m3u8
 
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-name="INC TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/INCTV-Logo-2012.png" group-title="Local TV",INC TV
@@ -71,7 +71,7 @@ https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
 #EXTINF:-1 tvg-id="CineMo.ph" tvg-name="Cine Mo!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/512px-Cinemo_logo_vectorized.svg.png" group-title="Movies & Series",Cine Mo!
 https://tiny.one/cinemocdn1
 
-#EXTINF:-1 tvg-id="CineLife.us" tvg-name="CineLife" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="Movies & Series",CineLife
+#EXTINF:-1 tvg-id="CineLife.us" tvg-name="CineLife" tvg-logo="https://images.squarespace-cdn.com/content/v1/6116dd95ac570853a3a7eb02/1629235069546-WGIX0E1UKHM93G1AWXOC/cinelife.png" group-title="Movies & Series",CineLife
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="CinemaxSingapore.sg" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies & Series",Cinemax
@@ -502,7 +502,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=30
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Cartoon_Network.svg/512px-Cartoon_Network.svg.png" group-title="Kids",Cartoon Network
 https://iptv-sniper.herokuapp.com/localtv.php?channel=29
 
-#EXTINF:-1 tvg-id="CartoonitoUK.uk" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/waE1BeJ.png" group-title="Kids",Cartoonito
+#EXTINF:-1 tvg-id="CartoonitoUK.uk" tvg-name="Cartoonito" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/6/66/Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=1000&extension=ts&play_token=m1nLMNgNjP
 
 #EXTINF:-1 tvg-id="CONtvAnime.us" tvg-name="CONtv Anime" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Kids",CONtv Anime
@@ -541,7 +541,7 @@ https://s3.radio.co/sd43d6cc6d/listen
 #EXTINF:-1 tvg-id="915WinRadio.ph" tvg-name="91.5 Win Radio" tvg-logo="https://winradioph.net/wp-content/uploads/Manila.jpg" group-title="Local Radio",91.5 Win Radio
 https://node-22.zeno.fm/7r5de9h96nhvv?zs=yL_62hnuRJSvNTB12NHgnw&zs=iZR7wIbCTYOp1uDqRGfyGA&rj-ttl=5&rj-tok=AAABgfs21scAvxjFA2IsU9lIYA
 
-#EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-name="DZRH News TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/DZRH_New_Logo_%282021%29.svg" group-title="Local Radio",DZRH News TV
+#EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-name="DZRH News TV" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/62/DZRH_TV_Logo_November_2021.png" group-title="Local Radio",DZRH News TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision
 
 #EXTINF:-1 tvg-id="SuperRadyoDZBB.ph" tvg-name="Super Radyo DZBB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/512px-DZBB594.svg.png" group-title="Local Radio",Super Radyo DZBB
