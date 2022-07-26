@@ -7,7 +7,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=76
 https://tiny.one/kapchacdn
 
 #EXTINF:-1 tvg-id="TheFilipinoChannelAsia.us" tvg-name="TFC" tvg-logo="https://i.imgur.com/waE1BeJ.png" group-title="Local TV",TFC
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/520931
+https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
 
 #EXTINF:-1 tvg-id="PTV.ph" tvg-name="PTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/512px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="Local TV",PTV
 https://utube2.fotvnetwork.workers.dev/stream/UCJCUbMaY593_4SN1QPG7NFQ/master.m3u8
@@ -47,9 +47,6 @@ http://ky-iptv.com:25461/live/Mouse/Mouse/1806799.ts
 #EXTINF:-1 tvg-id="OnePH.ph" tvg-name="One PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/512px-OnePHCignal.svg.png" group-title="Local TV",One PH
 https://iptv-sniper.herokuapp.com/localtv.php?channel=42
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="Buko" tvg-logo="https://cms.cignal.tv/Upload/Images/BuKo-Channel.jpg" group-title="Local TV",Buko
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/926198
-
 #EXTINF:-1 tvg-id="SariSariChannel.ph" tvg-name="Sari Sari Channel" tvg-logo="https://i.imgur.com/l2A1mt5.jpg" group-title="Local TV",Sari Sari Channel
 http://fortv.cc:8080/live/jsc/jsc/101824.m3u8
 
@@ -81,16 +78,16 @@ https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 https://iptv-sniper.herokuapp.com/localtv.php?channel=16
 
 #EXTINF:-1 tvg-id="FXEast.us" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/73681/s73681_h5_aa.png" group-title="Movies & Series",FX
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/174697
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860084&extension=ts&play_token=7rU1sOt0HK
 
 #EXTINF:-1 tvg-id="HBOMalaysia.my" tvg-name="HBO" tvg-logo="https://i.imgur.com/EnA2RcD.png" group-title="Movies & Series",HBO
 https://iptv-sniper.herokuapp.com/localtv.php?channel=15
 
-#EXTINF:-1 tvg-id="HBO2East.us" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movies & Series",HBO 2
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/174714
+#EXTINF:-1 tvg-id="HBO2Bulgaria.bg" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movies & Series",HBO 2
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=863195&extension=ts&play_token=yg7L52QpeM
 
 #EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/sDFfNjo.png" group-title="Movies & Series",HBO Family
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/174716
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860109&extension=ts&play_token=xlchl3dFfk
 
 #EXTINF:-1 tvg-id="Hits.sg" tvg-name="Hits" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Movies & Series",Hits
 http://210.210.155.35/session/1204b13c-a86a-11ec-baed-ab3e95131f5a/dr9445/h/h37/01.m3u8
@@ -117,7 +114,7 @@ https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 https://live-lunaott.akamaized.net/screamflix_ottera/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-name="Showtime" tvg-logo="https://i.imgur.com/F6rUoQ7.png" group-title="Movies & Series",Showtime
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/174716
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860283&extension=ts&play_token=3bJyPI6B9a
 
 #EXTINF:-1 tvg-id="SOLARFLIX" tvg-name="SolarFlix" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/05/Solar_Flix_Logo_2022.png" group-title="Movies & Series",SolarFlix
 http://user.scalecdn.co:8080/live/movie/movie/567710.m3u8
@@ -132,13 +129,16 @@ http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:91:db:9c&stream=
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-name="Syfy" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies & Series",Syfy
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/174972
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860317&extension=ts&play_token=qUFDgWsenK
 
-#EXTINF:-1 tvg-id="TCMTurnerClassicMoviesEast.us" tvg-name="TCM" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies & Series",TCM
-https://proxy.alphatx.me/9689cf5f/uOADDWzm1r/174977
+#EXTINF:-1 tvg-id="TCMTurnerClassicMoviesEast.us" tvg-name="TCM East" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies & Series",TCM East [Geo-USA]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="TCMTurnerClassicMoviesWest.us" tvg-name="TCM West" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies & Series",TCM West [Geo-USA]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Movies & Series",USA Network
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/174998
+http://skylogic.site:8080/ce1eb8b3/fd28c06f6f/3390
 
 #EXTINF:-1 tvg-id="VivaCinema.ph" tvg-name="Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg" group-title="Movies & Series",VivaCinema
 https://iptv-sniper.herokuapp.com/localtv.php?channel=13
@@ -147,7 +147,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=13
 https://iptv-sniper.herokuapp.com/localtv.php?channel=21
 
 #EXTINF:-1 tvg-id="ABCEast.us" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Lifestyle & Entertainment",ABC
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/174972
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=605019&extension=ts&play_token=yItKhn6D2l
 
 #EXTINF:-1 tvg-id="StoriesbyAMC.us" tvg-name="Stories by AMC" tvg-logo="https://images.pluto.tv/channels/5e8254118601b80007b4b7ae/colorLogoPNG.png" group-title="Lifestyle & Entertainment",Stories by AMC
 https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AMCPresentsClean/playlist.m3u8
@@ -200,8 +200,11 @@ https://v-ny.theus6tv.tk/hls/11.1/playlist.m3u8
 #EXTINF:-1 tvg-id="KTLADT1.us" tvg-name="The CW West" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="Lifestyle & Entertainment",The CW West
 https://v-la.mybtv.net/live/164.m3u8
 
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-name="TBS" tvg-logo="https://i.imgur.com/e3ik7KK.png" group-title="Lifestyle & Entertainment",TBS
-https://proxy.alphatx.me/9689cf5f/uOADDWzm1r/174975
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-name="TBS East" tvg-logo="https://i.imgur.com/e3ik7KK.png" group-title="Lifestyle & Entertainment",TBS East [Geo-USA]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TBSWest.us" tvg-name="TBS East" tvg-logo="https://i.imgur.com/e3ik7KK.png" group-title="Lifestyle & Entertainment",TBS West [Geo-USA]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/512px-TLC-Logo_2016.svg.png" group-title="Lifestyle & Entertainment",TLC
 https://iptv-sniper.herokuapp.com/localtv.php?channel=47
@@ -210,7 +213,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=47
 https://iptv-sniper.herokuapp.com/localtv.php?channel=9
 
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Lifestyle & Entertainment",TNT
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/174534
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=605021&extension=ts&play_token=4oQODlVlQI
 
 #EXTINF:-1 tvg-id="TRAVELCHANNEL" tvg-name="Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/512px-2018_Travel_Channel_logo.svg.png" group-title="Lifestyle & Entertainment",Travel Channel
 http://user.scalecdn.co:8080/live/movie/movie/567747.m3u8
@@ -291,7 +294,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_356400
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MSNBC_2021.svg/512px-MSNBC_2021.svg.png" group-title="News & Culture",MSNBC
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/174985
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860150&extension=ts&play_token=sCDJ0MU30D
 
 #EXTINF:-1 tvg-id="NBCLX.us" tvg-name="NBCLX" tvg-logo="https://ots.nbcwpshield.com/wp-content/uploads/2022/06/LXNews-logo-1260x630-1.png" group-title="News & Culture",NBCLX
 https://d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-main-hlsv3/master.m3u8?ads.channelId=9999651
@@ -342,13 +345,13 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=46
 https://iptv-sniper.herokuapp.com/localtv.php?channel=45
 
 #EXTINF:-1 tvg-id="DiscoveryScienceUK.uk" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/512px-Discovery_Science_2017_Logo.svg.png" group-title="Science & Documentaries",Discovery Science
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/549401
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=253170&extension=ts&play_token=2jcjaEkUPQ
 
 #EXTINF:-1 tvg-id="DiscoveryTurboUK.uk" tvg-name="Discovery Turbo" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/400/160/skychb2409.png" group-title="Science & Documentaries",Discovery Turbo
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/549402
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=930&extension=ts&play_token=n2hmJEmGpc
 
 #EXTINF:-1 tvg-id="DMAXUK.uk" tvg-name="DMAX" tvg-logo="https://i.ibb.co/3YHs0W9/image-removebg-preview.png" group-title="Science & Documentaries",DMAX
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/549403
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=253167&extension=ts&play_token=lT0kvyR7TK
 
 #EXTINF:-1 tvg-id="HistoryAsia.us" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Science & Documentaries",History
 https://iptv-sniper.herokuapp.com/localtv.php?channel=53
@@ -396,10 +399,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-edgesportusa-samsungtv-us/pl
 http://210.210.155.35/uq2663/h/h22/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/174757
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=605022&extension=ts&play_token=2TOa1TBQv3
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Sports",ESPN 2
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/174655
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860020&extension=ts&play_token=xGKhVGt3IM
 
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport 1" tvg-logo="https://epg.eurosport-tv.com/Images/LOGO_H208_TRP.png" group-title="Sports",Eurosport
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=141598&extension=ts&play_token=yofOklZ6OX
@@ -411,10 +414,10 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=18
 https://rpn1.bozztv.com/36bay2/gusa-fite/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",Fox Sports 1
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/174644
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860061&extension=ts&play_token=329zFNX3So
 
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png" group-title="Sports",Fox Sports 2
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/174669
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860062&extension=ts&play_token=InkGFQ4vVN
 
 #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-name="Horse and Country" tvg-logo="https://i.imgur.com/r5Ip3P0.png" group-title="Sports",Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
@@ -435,10 +438,10 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=36
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena" tvg-logo="https://i.imgur.com/XBMm9XT.png" group-title="Sports",Sky Sports Arena
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/83455
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=623584&extension=ts&play_token=dP3nma5LZ5
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png" group-title="Sports",Sky Sports F1
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/83453
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=623586&extension=ts&play_token=qda82ecDLx
 
 #EXTINF:-1 tvg-id="SPOTVAsia" tvg-name="SPOTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/800px-SPOTV_logo.svg.png" group-title="Sports",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
@@ -457,8 +460,8 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 #EXTINF:-1 tvg-id="TAPSPORTSHD" tvg-name="TAP Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Sports",TAP Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=31
 
-#EXTINF:-1 tvg-id="WWENetwork" tvg-name="WWE Network" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png" group-title="Sports",WWE Network
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/571184
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE Network" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png" group-title="Sports",WWE Network 
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=1018&extension=ts&play_token=dqykqcwyUG
 
 #EXTINF:-1 tvg-id="BreezeTV.nz" tvg-name="Breeze TV" tvg-logo="https://i.imgur.com/3dpH9XF.jpg" group-title="Music",Breeze TV
 https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
@@ -500,7 +503,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=30
 https://iptv-sniper.herokuapp.com/localtv.php?channel=29
 
 #EXTINF:-1 tvg-id="CartoonitoUK.uk" tvg-name="Cartoonito" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/6/66/Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito
-http://proxy.alphatx.me/9689cf5f/uOADDWzm1r/164013
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=1000&extension=ts&play_token=m1nLMNgNjP
 
 #EXTINF:-1 tvg-id="CONtvAnime.us" tvg-name="CONtv Anime" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Kids",CONtv Anime
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8

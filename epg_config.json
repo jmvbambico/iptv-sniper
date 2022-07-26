@@ -6,6 +6,12 @@
         ]
     },
     {
+        "url": "https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz",
+        "channels": [
+            "HBO2Bulgaria.bg"
+        ]
+    },
+    {
         "url": "https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz",
         "channels": [
             "ABCAustraliaAsia.au",
@@ -51,7 +57,8 @@
             "eGGNetwork.my",
             "HBOMalaysia.my",
             "NationalGeographicMalaysia.my",
-            "NationalGeographicWildMalaysia.my"
+            "NationalGeographicWildMalaysia.my",
+            "WWENetwork.us"
         ]
     },
     {
@@ -159,7 +166,6 @@
             "FoxSports2.us",
             "FXEast.us",
             "GameShowCentral.us",
-            "HBO2East.us",
             "HBOFamilyEast.us",
             "HLN.us",
             "KSAZDT1.us",
@@ -223,8 +229,7 @@
             "OutdoorChannel",
             "PremierSports",
             "SPOTVAsia",
-            "SPOTV2",
-            "WWENetwork"
+            "SPOTV2"
         ]
     },
     {
