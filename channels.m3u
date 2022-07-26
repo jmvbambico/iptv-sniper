@@ -407,10 +407,10 @@ http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860020&extens
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport 1" tvg-logo="https://epg.eurosport-tv.com/Images/LOGO_H208_TRP.png" group-title="Sports",Eurosport
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=141598&extension=ts&play_token=yofOklZ6OX
 
-#EXTINF:-1 tvg-id="FightSports" tvf-name="Fight Sports" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports",Fight Sports
+#EXTINF:-1 tvg-id="FightSports" tvg-name="Fight Sports" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports",Fight Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=18
 
-#EXTINF:-1 tvg-id="Fite.us" tvf-name="Fite" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/2560px-FITE_TV.svg.png" group-title="Sports",Fite
+#EXTINF:-1 tvg-id="Fite.us" tvg-name="Fite" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/2560px-FITE_TV.svg.png" group-title="Sports",Fite
 https://rpn1.bozztv.com/36bay2/gusa-fite/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",Fox Sports 1
