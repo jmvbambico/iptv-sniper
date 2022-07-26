@@ -6,12 +6,6 @@
         ]
     },
     {
-        "url": "https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz",
-        "channels": [
-            "HBO2Bulgaria.bg"
-        ]
-    },
-    {
         "url": "https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz",
         "channels": [
             "ABCAustraliaAsia.au",
@@ -57,8 +51,7 @@
             "eGGNetwork.my",
             "HBOMalaysia.my",
             "NationalGeographicMalaysia.my",
-            "NationalGeographicWildMalaysia.my",
-            "WWENetwork.us"
+            "NationalGeographicWildMalaysia.my"
         ]
     },
     {
@@ -114,7 +107,8 @@
             "NHKWorldJapan.jp",
             "ParamountNetworkSingapore.sg",
             "RTNews.ru",
-            "SmithsonianChannelAsia.us"
+            "SmithsonianChannelAsia.us",
+            "TheFilipinoChannelAsia.us"
         ]
     },
     {
@@ -153,6 +147,8 @@
         "channels": [
             "ABCEast.us",
             "AMCEast.us",
+            "CBSEast.us",
+            "CBSNews.us",
             "Cheddar.us",
             "CNN.us",
             "DisneyChannelEast.us",
@@ -163,16 +159,23 @@
             "FoxSports2.us",
             "FXEast.us",
             "GameShowCentral.us",
+            "HBO2East.us",
             "HBOFamilyEast.us",
             "HLN.us",
             "KSAZDT1.us",
             "KTLADT1.us",
+            "LiveNOWfromFox.us",
             "MSNBC.us",
             "MTVLive.uk",
+            "NBCEast.us",
+            "NBCLX.us",
             "NewsmaxTV.us",
+            "Newsy.us",
             "PBSKidsEasternCentral.us",
             "ShowtimeEast.us",
             "SyfyEast.us",
+            "TBSEast.us",
+            "TBSWest.us",
             "TNTEast.us",
             "USANetworkEast.us",
             "ViceTV.us",
@@ -220,7 +223,8 @@
             "OutdoorChannel",
             "PremierSports",
             "SPOTVAsia",
-            "SPOTV2"
+            "SPOTV2",
+            "WWENetwork"
         ]
     },
     {
