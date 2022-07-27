@@ -4,8 +4,9 @@
   $parser = new \Smalot\PdfParser\Parser();
   $pdf = $parser->parseContent(file_get_contents("https://img.mytfc.com/cmsroot/abscms/media/mytfctv/grids/2022/tfc/jul/tfc-tv-guide-guam-" . week_range(date("Y-m-d")) . ".pdf"));
 
-  $text = $pdf->getPages()[0]->getDataTm();;
-  // die("<pre>" . print_r($text, true) . "</pre>");
+  // $text = $pdf->getText();
+  $text = $pdf->getPages()[0]->getDataTm();
+  die("<pre>" . print_r($text, true) . "</pre>");
 
   $shows = array();
 
