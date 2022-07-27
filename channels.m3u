@@ -359,6 +359,9 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=53
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Science & Documentaries",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Science & Documentaries",NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
 #EXTINF:-1 tvg-id="NationalGeographicMalaysia.my" tvg-name="National Geographic Channel" tvg-logo="https://i.imgur.com/vKEqKFS.png" group-title="Science & Documentaries",National Geographic Channel
 https://iptv-sniper.herokuapp.com/localtv.php?channel=64
 
@@ -462,6 +465,9 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=31
 
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://cdn.mos.cms.futurecdn.net/nnbWtFDt8Y9wuHdR9AJxCF.png" group-title="Sports",Tennis Channel
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/World_Poker_Tour_Logo.svg/1200px-World_Poker_Tour_Logo.svg.png" group-title="Sports",World Poker Tour
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE Network" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png" group-title="Sports",WWE Network 
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=1018&extension=ts&play_token=dqykqcwyUG
