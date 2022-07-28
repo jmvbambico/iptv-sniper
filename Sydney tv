@@ -1,0 +1,12 @@
+#EXTM3U tvg-url="https://i.mjh.nz/au/Sydney/epg.xml"
+
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101204000401.png" tvg-id="tv.101204000401",Nine
+http://167.179.178.230:9981/stream/channelid/1711425144?ticket=83D06387F1219DC7D17ACC75E5D81551D5A583E4&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.10120400040A.png" tvg-id="tv.10120400040A",9Gem
+http://167.179.178.230:9981/stream/channelid/177200395?ticket=46C4F5144E07A06F82C148EBCCC5C0B673772055&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.10120400040B.png" tvg-id="tv.10120400040B",9Go!
+http://167.179.178.230:9981/stream/channelid/736739166?ticket=AA3C6530B3F0D9F8413AE9F7C37169159FB087E0&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101204000407.png" tvg-id="tv.101204000407",9Life
+http://167.179.178.230:9981/stream/channelid/518511531?ticket=91746874E721CC734220511D60580D2B9AF730CC&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.10120400040C.png" tvg-id="tv.10120400040C",9Rush
+http://167.179.178.230:9981/stream/channelid/1030512780?ticket=53D3C26312BCA5EC211F2DD557EE8D2F94FC35FA&profile=pass
