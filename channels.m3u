@@ -437,6 +437,9 @@ http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860062&extens
 #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-name="Horse and Country" tvg-logo="https://i.imgur.com/r5Ip3P0.png" group-title="Sports",Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HorseRacing.ph" tvg-name="Horse Racing" tvg-logo="https://i.imgur.com/DdVul6b.png" group-title="Sports",Horse Racing
+http://live.lordstreams.co:8080/live/Barnes1/Barnes1/567718.m3u8
+
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" group-title="Sports",MLB Network
 http://ky-iptv.com:25461/live/abc123456/abc123456/1284154.ts
 
@@ -449,7 +452,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=50
 #EXTINF:-1 tvg-id="PremierSports" tvg-name="Premier Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="Sports",Premier Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=36
 
-#EXTINF:-1 tvg-id="redbulltv.us" tvg-name="RedBull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",RedBull TV
+#EXTINF:-1 tvg-id="redbulltv.us" tvg-name="RedBull TV" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena" tvg-logo="https://i.imgur.com/XBMm9XT.png" group-title="Sports",Sky Sports Arena
