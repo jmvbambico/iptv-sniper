@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://iptv-org.github.io/epg/guides/ae-en/osn.com.epg.xml.gz",
-        "channels": [
-            "CineMo.ph"
-        ]
-    },
-    {
         "url": "https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz",
         "channels": [
             "HBO2Bulgaria.bg"
@@ -246,6 +240,7 @@
         "channels": [
             "ANIPLUSSD",
             "CINEMAONE",
+            "CINEMO",
             "DZMMTELERADYO",
             "KNOWLEDGECHANNEL",
             "METROCHANNELSD",
