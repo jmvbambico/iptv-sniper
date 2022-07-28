@@ -53,6 +53,27 @@ http://fortv.cc:8080/live/jsc/jsc/101824.m3u8
 #EXTINF:-1 tvg-id="SMNI.ph" tvg-name="SMNI" tvg-logo="https://i.imgur.com/p3KeNAm.png" group-title="Local TV",SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
+#EXTINF:-1 tvg-id="TAPTV" tvg-name="TAPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="Local TV",TAP TV
+http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z9PO9TCic3B5l9MHq_sxtP84_sW68HkifQU8uV7M8do3MoiFLDKnUZOYzD8Y7qOXZo
+
+#EXTINF:-1 tvg-id="CelestialMoviesPinoy.hk" tvg-name="Celestial Movies Pinoy" tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-default.png" group-title="Local Movies",Celestial Movies Pinoy
+http://tiny.one/celestialpinoy
+
+#EXTINF:-1 tvg-id="CINEMAONE" tvg-name="Cinema One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Local Movies",Cinema One
+https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
+
+#EXTINF:-1 tvg-id="CineMo.ph" tvg-name="Cine Mo!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/512px-Cinemo_logo_vectorized.svg.png" group-title="Local Movies",Cine Mo!
+https://tiny.one/cinemocdn1
+
+#EXTINF:-1 tvg-id="PBO" tvg-name="PBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="Local Movies",PBO
+https://iptv-sniper.herokuapp.com/localtv.php?channel=12
+
+#EXTINF:-1 tvg-id="SOLARFLIX" tvg-name="SolarFlix" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/05/Solar_Flix_Logo_2022.png" group-title="Local Movies",SolarFlix
+http://user.scalecdn.co:8080/live/movie/movie/567710.m3u8
+
+#EXTINF:-1 tvg-id="VivaCinema.ph" tvg-name="Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg" group-title="Local Movies",VivaCinema
+https://iptv-sniper.herokuapp.com/localtv.php?channel=13
+
 #EXTINF:-1 tvg-id="Andflix.in" tvg-name="&flix HD" tvg-logo="https://i.imgur.com/K8FJgai.png" group-title="Movies & Series",&flix HD
 http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:91:db:9c&stream=862616&extension=ts&play_token=s4jLZ6jSzd
 
@@ -61,15 +82,6 @@ http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:91:db:9c&stream=
 
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-name="AMC" tvg-logo="https://i.imgur.com/RBKx6Fx.png" group-title="Movies & Series",AMC
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CelestialMoviesPinoy.hk" tvg-name="Celestial Movies Pinoy" tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-default.png" group-title="Movies & Series",Celestial Movies Pinoy
-http://tiny.one/celestialpinoy
-
-#EXTINF:-1 tvg-id="CINEMAONE" tvg-name="Cinema One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Movies & Series",Cinema One
-https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
-
-#EXTINF:-1 tvg-id="CineMo.ph" tvg-name="Cine Mo!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/512px-Cinemo_logo_vectorized.svg.png" group-title="Movies & Series",Cine Mo!
-https://tiny.one/cinemocdn1
 
 #EXTINF:-1 tvg-id="CineLife.us" tvg-name="CineLife" tvg-logo="https://images.squarespace-cdn.com/content/v1/6116dd95ac570853a3a7eb02/1629235069546-WGIX0E1UKHM93G1AWXOC/cinelife.png" group-title="Movies & Series",CineLife
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
@@ -104,9 +116,6 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ParamountNetworkSingapore.sg" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies & Series",Paramount Network
 https://iptv-sniper.herokuapp.com/localtv.php?channel=59
 
-#EXTINF:-1 tvg-id="PBO" tvg-name="PBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="Movies & Series",PBO
-https://iptv-sniper.herokuapp.com/localtv.php?channel=12
-
 #EXTINF:-1 tvg-id="RushbyAMC.us" tvg-name="Rush by AMC" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies & Series",Rush by AMC
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
@@ -115,9 +124,6 @@ https://live-lunaott.akamaized.net/screamflix_ottera/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-name="Showtime" tvg-logo="https://i.imgur.com/F6rUoQ7.png" group-title="Movies & Series",Showtime
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860283&extension=ts&play_token=3bJyPI6B9a
-
-#EXTINF:-1 tvg-id="SOLARFLIX" tvg-name="SolarFlix" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/05/Solar_Flix_Logo_2022.png" group-title="Movies & Series",SolarFlix
-http://user.scalecdn.co:8080/live/movie/movie/567710.m3u8
 
 #EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-name="Star Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies & Series",Star Movies
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:ab:98:86&stream=136629&extension=ts&play_token=I0DMNLsHGF
@@ -131,6 +137,15 @@ https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-name="Syfy" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies & Series",Syfy
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860317&extension=ts&play_token=qUFDgWsenK
 
+#EXTINF:-1 tvg-id="TapActionFlixHD" tvg-name="Tap Action Flix" tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-Action-Flix.jpg" group-title="Movies & Series",Tap Action Flix
+http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z-yzuDBLoj2eYOq9kWdCCcdBVg2Ur67La_RqtQRtF0l2BvT5zqs1ll9gYCyCVKloEE
+
+#EXTINF:-1 tvg-id="TAPEDGE" tvg-name="TAP Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TapEdge-ph.png/380px-TapEdge-ph.png" group-title="Movies & Series",TAP Edge
+http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z_pRVr-aYBr73zWXnVoxl1-Q8i7nLZ-GnOTPKXLZ1vvvWuat6N5VgvqZOjz4VqCVJc
+
+#EXTINF:-1 tvg-id="TAPMOVIES" tvg-name="Tap Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TapMovies-ph.png/220px-TapMovies-ph.png" group-title="Movies & Series",Tap Movies
+http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z-tOdmAY7pwSOITecJ_pWPJNGm3NqZBjTk84Ow6O7peR6OOmN3Wre8Hd1lpX3N8ZZ4
+
 #EXTINF:-1 tvg-id="TCMTurnerClassicMoviesEast.us" tvg-name="TCM East" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies & Series",TCM East [Geo-USA]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 
@@ -139,9 +154,6 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1
 
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Movies & Series",USA Network
 http://skylogic.site:8080/ce1eb8b3/fd28c06f6f/3390
-
-#EXTINF:-1 tvg-id="VivaCinema.ph" tvg-name="Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg" group-title="Movies & Series",VivaCinema
-https://iptv-sniper.herokuapp.com/localtv.php?channel=13
 
 #EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="Movies & Series",Warner TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=21
