@@ -62,7 +62,7 @@ http://tiny.one/celestialpinoy
 #EXTINF:-1 tvg-id="CINEMAONE" tvg-name="Cinema One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Local Movies",Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
 
-#EXTINF:-1 tvg-id="CineMo.ph" tvg-name="Cine Mo!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/512px-Cinemo_logo_vectorized.svg.png" group-title="Local Movies",Cine Mo!
+#EXTINF:-1 tvg-id="CINEMO" tvg-name="Cine Mo!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/512px-Cinemo_logo_vectorized.svg.png" group-title="Local Movies",Cine Mo!
 https://tiny.one/cinemocdn1
 
 #EXTINF:-1 tvg-id="PBO" tvg-name="PBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="Local Movies",PBO
