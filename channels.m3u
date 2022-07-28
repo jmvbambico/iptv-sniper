@@ -146,10 +146,10 @@ http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1Dtgs
 #EXTINF:-1 tvg-id="TAPMOVIES" tvg-name="Tap Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TapMovies-ph.png/220px-TapMovies-ph.png" group-title="Movies & Series",Tap Movies
 http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z-tOdmAY7pwSOITecJ_pWPJNGm3NqZBjTk84Ow6O7peR6OOmN3Wre8Hd1lpX3N8ZZ4
 
-#EXTINF:-1 tvg-id="TCMTurnerClassicMoviesEast.us" tvg-name="TCM East" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies & Series",TCM East [Geo-USA]
+#EXTINF:-1 tvg-id="TCMTurnerClassicMoviesEast.us" tvg-name="[VPN Needed:USA] TCM East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="Movies & Series",TCM East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1 tvg-id="TCMTurnerClassicMoviesWest.us" tvg-name="TCM West" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies & Series",TCM West [Geo-USA]
+#EXTINF:-1 tvg-id="TCMTurnerClassicMoviesWest.us" tvg-name="[VPN Needed:USA] TCM West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="Movies & Series",TCM West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Movies & Series",USA Network
@@ -212,10 +212,10 @@ https://v-ny.theus6tv.tk/hls/11.1/playlist.m3u8
 #EXTINF:-1 tvg-id="KTLADT1.us" tvg-name="The CW West" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="Lifestyle & Entertainment",The CW West
 https://v-la.mybtv.net/live/164.m3u8
 
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-name="TBS East" tvg-logo="https://i.imgur.com/e3ik7KK.png" group-title="Lifestyle & Entertainment",TBS East [Geo-USA]
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-name="[VPN Needed:USA] TBS East" tvg-logo="https://i.imgur.com/e3ik7KK.png" group-title="Lifestyle & Entertainment",TBS East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="TBSWest.us" tvg-name="TBS East" tvg-logo="https://i.imgur.com/e3ik7KK.png" group-title="Lifestyle & Entertainment",TBS West [Geo-USA]
+#EXTINF:-1 tvg-id="TBSWest.us" tvg-name="[VPN Needed:USA] TBS East" tvg-logo="https://i.imgur.com/e3ik7KK.png" group-title="Lifestyle & Entertainment",TBS West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/512px-TLC-Logo_2016.svg.png" group-title="Lifestyle & Entertainment",TLC
