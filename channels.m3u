@@ -71,7 +71,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=12
 #EXTINF:-1 tvg-id="SOLARFLIX" tvg-name="SolarFlix" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/05/Solar_Flix_Logo_2022.png" group-title="Local Movies",SolarFlix
 http://user.scalecdn.co:8080/live/movie/movie/567710.m3u8
 
-#EXTINF:-1 tvg-id="VivaCinema.ph" tvg-name="Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg" group-title="Local Movies",VivaCinema
+#EXTINF:-1 tvg-id="VivaCinema.ph" tvg-name="VivaCinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg" group-title="Local Movies",VivaCinema
 https://iptv-sniper.herokuapp.com/localtv.php?channel=13
 
 #EXTINF:-1 tvg-id="Andflix.in" tvg-name="&flix HD" tvg-logo="https://i.imgur.com/K8FJgai.png" group-title="Movies & Series",&flix HD
@@ -419,7 +419,7 @@ http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=605022&extens
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Sports",ESPN 2
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860020&extension=ts&play_token=xGKhVGt3IM
 
-#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport 1" tvg-logo="https://epg.eurosport-tv.com/Images/LOGO_H208_TRP.png" group-title="Sports",Eurosport
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="https://epg.eurosport-tv.com/Images/LOGO_H208_TRP.png" group-title="Sports",Eurosport
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=141598&extension=ts&play_token=yofOklZ6OX
 
 #EXTINF:-1 tvg-id="FightSports" tvg-name="Fight Sports" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports",Fight Sports
