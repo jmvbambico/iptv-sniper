@@ -157,6 +157,12 @@
         ]
     },
     {
+        "url": "https://iptv-sniper.herokuapp.com/epg/redbulltv.php?format=gz",
+        "channels": [
+            "redbulltv.us"
+        ]
+    },
+    {
         "url": "https://iptv-sniper.herokuapp.com/epg/skycable.php?format=gz",
         "channels": [
             "ANIPLUSSD",
